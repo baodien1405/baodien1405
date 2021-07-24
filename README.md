@@ -1,6 +1,3 @@
-![imageedit_1_5524154737](https://user-images.githubusercontent.com/63298399/125162996-38034280-e1b5-11eb-837a-2744d44c8380.jpg)
-
-
 <h2> Hey there! I'm Bao Dien.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
