@@ -39,7 +39,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/baodien1405">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
@@ -49,6 +49,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/baodien1405/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="baodien1405@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/baodien1405/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-baodien1405-blue?style=flat-square&logo=instagram"></a>
+<a href="baodien1405@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-baodien1405@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.facebook.com/c.baodien/"><img src="https://img.shields.io/badge/-baodien1405-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
