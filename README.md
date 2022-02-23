@@ -18,10 +18,14 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SCSS](https://img.shields.io/badge/SASS-282C34?logo=sass&logoColor=CC6699)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=FFFFFF)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
